@@ -1,0 +1,13 @@
+{
+    "name": "vue-admin",
+    "version": "0.0.1",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite"
+    },
+    "devDependencies": {
+        "@types/node": "^22.2.0",
+        "typescript": "^5.5.4"
+    }
+}
